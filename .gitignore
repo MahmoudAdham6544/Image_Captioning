@@ -327,6 +327,18 @@ paket-files/
 __pycache__/
 *.pyc
 
+#Model Weights
+caption_model.keras
+
+caption_model.weights.h5
+# Environments
+.env
+.venv
+myenv/
+venv/
+ENV/
+env.bak/
+venv.bak/
 # Cake - Uncomment if you are using it
 # tools/**
 # !tools/packages.config
